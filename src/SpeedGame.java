@@ -1,7 +1,7 @@
 public class SpeedGame {
 
     public static void main(String[] args) {
-        boolean isGreenLight = false;
+        boolean isGreenLight = true;
 
         int speedOfPlayer1 = 5;
         int speedOfPlayer2 = 0;
